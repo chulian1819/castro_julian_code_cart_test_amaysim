@@ -1,0 +1,14 @@
+{
+  "name": "castro_julian_code_cart_test_amaysim",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "qunit test.js"
+  },
+  "author": "Julian",
+  "license": "ISC"
+}
